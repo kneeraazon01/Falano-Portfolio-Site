@@ -23,13 +23,7 @@ const Navbar = () => {
 							target="_blank"
 							fgColor="#fff"
 							style={{ height: 35, width: 35 }} />
-						<SocialIcon
-							url="http://facebook.com/falano"
-							className="mr-4"
-							target="_blank"
-							fgColor="#fff"
-							style={{ height: 35, width: 35 }}
-						/>
+
 						<SocialIcon
 							url="http://youtube.com/falano"
 							className="mr-4"
@@ -39,6 +33,13 @@ const Navbar = () => {
 						/>
 						<SocialIcon
 							url="http://linkedin.com/falano"
+							className="mr-4"
+							target="_blank"
+							fgColor="#fff"
+							style={{ height: 35, width: 35 }}
+						/>
+						<SocialIcon
+							url="http://github.com/falano"
 							className="mr-4"
 							target="_blank"
 							fgColor="#fff"
